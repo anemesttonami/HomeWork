@@ -2,6 +2,8 @@ package com.HW.project;
 
 import java.util.ArrayList;
 
+// данный коммент ради появления возможности пул реквеста
+
 public class OwnArrayDrist {
     private static Object[] array = new Object[10];
     private static int nextSlot = 0;
